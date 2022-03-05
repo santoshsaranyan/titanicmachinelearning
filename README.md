@@ -6,3 +6,5 @@ whether a person aboard the Titanic survived or not.
 
 • Determined that a person’s survival aboard the Titanic depended largely on factors such as their gender, age, and
 ticket class.
+
+Data used is from: https://www.kaggle.com/c/titanic 
